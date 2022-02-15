@@ -41,23 +41,23 @@ https://th.bing.com/th/id/R.ca7d28d9e73074e014a69e03a05ae665?rik=pM1l76dnczdi8w&
 
 ## Names
 
-Nick Smith
-Ben Matatov
-Johnson Cao
-Rashawn Chichester
-Marceline Buhendwa
-Edward Thomas
-Courtnei Carey
-Abdiwahid
-Ulisses Acosta
-Israel Mendoza
-Alexia Chavez
-Eric Arizmnedi
-Ophelia
-Emanuel Poblano
-Gordon Bugg
-Dulce Lopez
-Alaya Holly
-Tania Velasquez
-samir
-Eliana
+* Nick Smith
+* Ben Matatov
+* Johnson Cao
+* Rashawn Chichester
+* Marceline Buhendwa
+* Edward Thomas
+* Courtnei Carey
+* Abdiwahid
+* Ulisses Acosta
+* Israel Mendoza
+* Alexia Chavez
+* Eric Arizmnedi
+* Ophelia
+* Emanuel Poblano
+* Gordon Bugg
+* Dulce Lopez
+* Alaya Holly
+* Tania Velasquez
+* samir
+* Eliana
