@@ -72,7 +72,7 @@ Alexia
 # Should this assignment be graded?
 
 practice
-send it grade it
+grade it
 
 no, this was great practice though
 Practice/f
