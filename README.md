@@ -61,3 +61,23 @@ Alaya Holly
 Tania Velasquez
 samir
 Eliana
+
+---
+
+NEW NAME (2/22/2022)
+Gus
+Nick Smith
+Alexia
+
+# Should this assignment be graded?
+
+practice
+send it grade it
+
+no, this was great practice though
+Practice/f
+pr
+yes
+ce
+
+pra
